@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+    scroll-behavior: smooth;
+}
+
+* {
+    font-family: "Inter", sans-serif;
+}
+
+h1,
+h2,
+h3,
+.titillium{
+    font-family: "Inter", sans-serif;
+}
